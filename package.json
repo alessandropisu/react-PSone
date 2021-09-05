@@ -36,7 +36,7 @@
     "trailingComma": "es5"
   },
   "name": "react-psone",
-  "author": "Alessandro",
+  "author": "Alessandro Pisu",
   "module": "dist/react-psone.esm.js",
   "size-limit": [
     {
