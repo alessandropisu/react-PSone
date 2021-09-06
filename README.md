@@ -2,6 +2,9 @@
 
 React version of PSone.css CSS framework.
 
+[![NPM](https://img.shields.io/npm/v/react-psone)](https://www.npmjs.com/package/react-psone) 
+[![LICENSE](https://img.shields.io/npm/l/react-psone)](https://www.npmjs.com/package/react-psone) 
+
 ## Resources
 
 [PSone.css demo](https://98mprice.github.io/PSone.css/)  
