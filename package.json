@@ -1,8 +1,25 @@
 {
+  "name": "react-psone",
   "version": "1.0.0",
   "license": "MIT",
+  "private": false,
+  "author": "Alessandro Pisu",
   "homepage": "https://alessandropisu.github.io/react-PSone",
+  "keywords": [
+    "psone.css",
+    "react",
+    "css"
+  ],
+  "description": "React version of PSone.css CSS framework.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandropisu/react-PSone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alessandropisu/react-PSone/issues"
+  },
   "main": "dist/index.js",
+  "module": "dist/react-psone.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
@@ -38,9 +55,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-psone",
-  "author": "Alessandro Pisu",
-  "module": "dist/react-psone.esm.js",
   "size-limit": [
     {
       "path": "dist/react-psone.cjs.production.min.js",

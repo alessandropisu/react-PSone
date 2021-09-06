@@ -4,7 +4,7 @@ React version of PSone.css CSS framework.
 
 ## Resources
 
-[PSone.css demo](https://98mprice.github.io/PSone.css/)
+[PSone.css demo](https://98mprice.github.io/PSone.css/)  
 [PSone.css repository](https://github.com/98mprice/PSone.css)
 
 ## Storybook
